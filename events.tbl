@@ -1,0 +1,13 @@
+000005|000000|recno:int|eventname:str|eventdisp:str|initialdate:datetime.date|eventtype:str|onetimedate:datetime.date|weeklyday:str|monthlyday:str|timetoremind:str|daysbefore:int|emailaddr:str
+1|test weekly|Its 5pm on Friday somewhere!!!!||weekly||Fri||17:00|0|7022839754@vzwpix.com
+2|test onetime|Time to Wake up!!!!||onetime|2017-12-28|||21:50|0|test@yahoo.com
+3|david birthday|Its Davids $calc Birthday!!!|1984-03-14|yearly||||08:00|3|7022839754@vzwpix.com
+4|austin birthday|Its Austin's $calc Birthday!!!|1994-10-16|yearly||||10:00|0|7022839754@vzwpix.com
+5|test monthly|This is your monthly (every 15th) 12noon reminder!!!!||monthly|||15|12:00|0|test@yahoo.com
+
+
+
+
+
+
+
