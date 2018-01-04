@@ -2,8 +2,7 @@
 Just a standalone reminder program written in Python to send reminder texts/emails.
 
 
-Righthand
-Rex - My automated reminder program. 
+Righthand Rex - My automated reminder program. 
 
 It reminds for:
 A one time event
