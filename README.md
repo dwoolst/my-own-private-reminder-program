@@ -15,6 +15,8 @@ Notes:
 Data is stored in the file called events.tbl which contains some sample reminders.
 The email message body will display 'eventdisplay' using the $calc param if needed.
 
+ ### DATABASE STRUCTURE:
+
 | TYPE | NAME | EXAMPLES |  
 |-----------|:-----------:|-----------:|  
 | string | eventname | David's Birthday |  
